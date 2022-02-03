@@ -9,7 +9,7 @@
   }
   
   body {
-    background: url("bg.jpg") no-repeat top center;
+    background: url("imagens/mulan-disney.jpg");
     background-size: cover;
     height: 100vh;
     display: flex;
